@@ -20,4 +20,4 @@ urlpatterns = [
     url(r'^polls/', include('polls.urls', namespace="polls")), #this line added
     url(r'^admin/', admin.site.urls),
 ]
-#note
+#note 2
